@@ -20,12 +20,11 @@
 | Git        |                         |
 | GitHub     |                         |
 | VSCode     |                         |
-| Emacs      |                         |
-| Ubuntu     | WSLからの使用です       |
-| Windows    |                         |
-| Azure      | Cognitive Serviceを利用 |
+<!--| Emacs      |                         |-->
+<!--| Ubuntu     | WSLからの使用です       |-->
+<!--| Windows    |                         |-->
+<!--| Azure      | Cognitive Serviceを利用 |-->
 ## 成果物
 まだエンジニアとしての実務経験がなく、職務上の成果などはお出しできませんが、プログラミングを勉強しながら個人開発してきた制作物を紹介させて頂きます。
 - [和同開珎](https://github.com/knakan213/wado-puzzle)
 - [Maze](https://github.com/knakan213/maze)
-
